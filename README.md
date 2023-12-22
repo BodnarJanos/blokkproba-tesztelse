@@ -1,5 +1,5 @@
 
-> Az oldal megnyitása itt: [https://bodnarjanos.github.io/blokkproba-tesztelse/](https://bodnarjanos.github.io/blokkproba-tesztelse/)
+> Az oldal megnyitása itt: [https://bodnarjanos.github.io/blokkproba/](https://bodnarjanos.github.io/blokkproba/)
 
 ## Használj egy bővítményt
 
@@ -8,7 +8,7 @@ Ez a repó **bővítményként** használható a MakeCode-ban.
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) megnyitása
 * kattints au **Új projekt**-re
 * kattints a **Bővítmények** gombra a fogaskerék menüben
-* **https://github.com/bodnarjanos/blokkproba-tesztelse** keresése, majd importálás
+* **https://github.com/bodnarjanos/blokkproba** keresése, majd importálás
 
 ## A projekt szerkesztése
 
@@ -16,7 +16,7 @@ A repó szerkesztése a MakeCode-ban.
 
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) megnyitása
 * kattints az **Import**-ra, utána az **Import URL**-re
-* illeszd be a **https://github.com/bodnarjanos/blokkproba-tesztelse** címet és kattints az importra
+* illeszd be a **https://github.com/bodnarjanos/blokkproba** címet és kattints az importra
 
 #### Metaadatok (kereséshez, rendereléshez)
 

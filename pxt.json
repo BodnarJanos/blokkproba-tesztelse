@@ -1,11 +1,10 @@
 {
-    "name": "BlokkProba tesztelése",
+    "name": "BlokkProba",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*",
-        "BlokkProba": "github:bodnarjanos/blokkproba#master"
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
