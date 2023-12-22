@@ -1,6 +1,6 @@
 namespace blokkproba{
     //%blockId = blokkprobaxor
-    //%block = "xor $a $b"
+    //%block = "xor|kizaróvagy $a $b"
     //% color=5 weight=100 icon="\uf1ec"
     //% groups=['Led']
     export function xor(a:number, b:number): number{
