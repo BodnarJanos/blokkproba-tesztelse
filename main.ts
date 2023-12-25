@@ -1,22 +1,24 @@
 /**
- * Functions are mapped to blocks using various macros
- * in comments starting with %. The most important macro
- * is "block", and it specifies that a block should be
- * generated for an **exported** function.
+ * Use weights to control the order of blocks, a higher
+ * weight means higher in the toolbox
  */
 
-//% color="#AA278D" weight=100
-namespace hello {
+//% color="#AA278D"
+namespace blocks {
+    /**
+     * This block goes to the bottom
+     */
     //% block
-    export function helloWorld() {
-
+    //% weight=50
+    export function second() {
     }
 
-    // note that Caml casing yields lower case
-    // block text with spaces
-
+    /**
+     * This block goes on top
+     */
     //% block
-    export function camlCaseTwo() {
+    //% weight=100
+    export function first() {
 
     }
 }
