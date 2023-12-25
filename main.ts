@@ -1,9 +1,18 @@
-    //% blockId="array_pop" block="get and remove last value from $list"
-    export function pop(): number;
- 
- 
-    //% blockId = "array_pop_statement" block="remove last value from $list"
-    //% blockAliasFor=Array.pop"
-    export function _popStatement(): void;
+//% color="#AA278D"
+namespace formatting {
 
+    //% block="fooooooo"
+    export function foo() {
 
+    }
+
+    //% block="bar x = $x text = $text"
+    export function bar(x: number, text: string) {
+
+    }
+
+    //% block="shuffled text = $text x = $x"
+    export function shuffled(x: number, text: string) {
+
+    }
+}
